@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hello, I'm Gabriel Cantarin 👋
 
-<!--
-**gabrielumatch/gabrielumatch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Building amazing React Native projects!**
 
-Here are some ideas to get you started:
+I'm a passionate mobile developer dedicated to creating high-quality, innovative applications using React Native and TypeScript. I thrive on transforming ideas into intuitive, performance-driven apps, always pushing the limits of design and technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+- **chain-of-responsability**  
+  A TypeScript implementation of the Chain of Responsibility design pattern, designed to create flexible and modular data flows.
+
+- **native-wind**  
+  An integration of Tailwind CSS with React Native, enabling rapid development of beautifully styled, responsive interfaces.
+
+- **shared-elements**  
+  A project focused on seamless transitions and animations that enhance the overall mobile user experience.
+
+- **shit-app**  
+  An experimental project that challenges conventional development boundaries and sparks creative solutions.
+
+- **flyff-brasil-app**  
+  An application tailored for the Flyff community in Brazil, blending entertainment with user-focused features.
+
+- **tamagochi**  
+  A modern reinterpretation of the classic Tamagotchi, built with contemporary development practices.
+
+## 🛠 Technologies & Tools
+
+- **Languages:** TypeScript, JavaScript  
+- **Frameworks:** React Native, Expo  
+- **Styling:** Tailwind CSS  
+- **Tools:** Git, GitHub, VS Code
+
+## 📊 GitHub Stats
+
+[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielumatch&show_icons=true&theme=radical)](https://github.com/gabrielumatch)
+
+## 🌐 Connect with Me
+
+- **LinkedIn:** [Gabriel Cantarin](https://www.linkedin.com/in/gabrielcantarin)  
+- **GitHub:** [gabrielumatch](https://github.com/gabrielumatch)  
+- **Email:** [gabriel@umatch.com.br](mailto:gabriel@umatch.com.br)  
+- **Website:** [umatch.com.br](https://umatch.com.br)
+
+---
+
+✨ _Crafting code with passion and creativity!_
