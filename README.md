@@ -26,10 +26,8 @@ I'm a passionate mobile developer dedicated to creating high-quality, innovative
 
 ## 🛠 Technologies & Tools
 
-- **Languages:** TypeScript, JavaScript  
-- **Frameworks:** React Native, Expo  
-- **Styling:** Tailwind CSS  
-- **Tools:** Git, GitHub, VS Code
+- **Languages:** TypeScript, JavaScript, Python, PHP
+- **Frameworks:** React Native, Expo, Laravel, Django
 
 ## 📊 GitHub Stats
 
@@ -39,7 +37,8 @@ I'm a passionate mobile developer dedicated to creating high-quality, innovative
 
 - **LinkedIn:** [Gabriel Cantarin](https://www.linkedin.com/in/gabrielcantarin)  
 - **GitHub:** [gabrielumatch](https://github.com/gabrielumatch)  
-- **Email:** [gabriel@umatch.com.br](mailto:gabriel@umatch.com.br)  
+- **Instagram:** [gabrielcantarin](https://instagram.com/gabrielcantarin)  
+- **Email:** [gabriel@cantarin.com.br](mailto:gabriel@cantarin.com.br)  
 - **Website:** [umatch.com.br](https://umatch.com.br)
 
 ---
