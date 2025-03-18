@@ -33,6 +33,8 @@ I'm a passionate mobile developer dedicated to creating high-quality, innovative
 
 [![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielumatch&show_icons=true&theme=radical)](https://github.com/gabrielumatch)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielumatch)](https://github.com/gabrielumatch/github-readme-stats)
+
 ## 🌐 Connect with Me
 
 - **LinkedIn:** [Gabriel Cantarin](https://www.linkedin.com/in/gabrielcantarin)  
