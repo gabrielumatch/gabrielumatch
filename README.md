@@ -31,7 +31,7 @@ I'm a passionate mobile developer dedicated to creating high-quality, innovative
 
 ## 📊 GitHub Stats
 
-[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielumatch&show_icons=true&theme=radical&cache_seconds=1)](https://github.com/gabrielumatch)
+[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielumatch&show_icons=true&theme=radical&cache_seconds=2)](https://github.com/gabrielumatch)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielumatch)](https://github.com/gabrielumatch/github-readme-stats)
 
