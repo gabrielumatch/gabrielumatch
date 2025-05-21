@@ -1,6 +1,6 @@
 # Hello, I'm Gabriel Cantarin 👋
 
-**Building amazing React Native projects!**
+**Building amazing React Native projects!** 
 
 I'm a passionate mobile developer dedicated to creating high-quality, innovative applications using React Native and TypeScript. I thrive on transforming ideas into intuitive, performance-driven apps, always pushing the limits of design and technology.
 
